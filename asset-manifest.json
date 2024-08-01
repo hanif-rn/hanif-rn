@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hanif-rn/static/css/main.36a8deba.css",
-    "main.js": "/hanif-rn/static/js/main.8cd0f386.js",
+    "main.css": "/hanif-rn/static/css/main.cb7693cf.css",
+    "main.js": "/hanif-rn/static/js/main.c4b9c7aa.js",
     "static/media/mapsss.png": "/hanif-rn/static/media/mapsss.3ab1585910e366b26272.png",
     "static/media/breakoutss.png": "/hanif-rn/static/media/breakoutss.d871dfbb60a023f175fc.png",
     "static/media/eval.png": "/hanif-rn/static/media/eval.25cbe6b23152f375b209.png",
     "static/media/mazess.png": "/hanif-rn/static/media/mazess.4d2da6d8f69e1340d7e8.png",
     "static/media/breakout.asm": "/hanif-rn/static/media/breakout.f6ff152c6e472371928a.asm",
     "index.html": "/hanif-rn/index.html",
-    "main.36a8deba.css.map": "/hanif-rn/static/css/main.36a8deba.css.map",
-    "main.8cd0f386.js.map": "/hanif-rn/static/js/main.8cd0f386.js.map"
+    "main.cb7693cf.css.map": "/hanif-rn/static/css/main.cb7693cf.css.map",
+    "main.c4b9c7aa.js.map": "/hanif-rn/static/js/main.c4b9c7aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.36a8deba.css",
-    "static/js/main.8cd0f386.js"
+    "static/css/main.cb7693cf.css",
+    "static/js/main.c4b9c7aa.js"
   ]
 }
