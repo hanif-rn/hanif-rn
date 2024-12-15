@@ -1,6 +1,11 @@
-## Hi there 👋
+# Hi, I'm Hanif! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanif-rn)](https://github.com/hanif-rn/github-readme-stats)
+## 🛠️ Fun Stats!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanif-rn&layout=compact)
+
+---
+
 
 <!--
 **hanif-rn/hanif-rn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
