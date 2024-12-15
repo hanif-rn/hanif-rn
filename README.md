@@ -1,6 +1,6 @@
 # Hi, I'm Hanif! 👋
 
-## 🔭 Get to Know My Projects 
+## 🔭 My Portfolio and Favorite Project!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanif-rn&description_lines_count=3&theme=vision-friendly-dark&repo=hanif-rn)](https://github.com/hanif-rn/hanif-rn)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanif-rn&description_lines_count=3&show_owner=true&theme=vision-friendly-dark&repo=project7-rankings)](https://github.com/hanif-rn/project7-rankings)
