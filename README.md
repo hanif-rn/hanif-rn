@@ -1,11 +1,11 @@
 ## Hi, I'm Hanif! 👋
 
 ### 🔭 My Portfolio and Favorite Project!
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanif-rn&description_lines_count=2&theme=vision-friendly-dark&repo=hanif-rn)](https://github.com/hanif-rn/hanif-rn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanif-rn&description_lines_count=2&show_owner=true&theme=vision-friendly-dark&repo=project7-rankings)](https://github.com/hanif-rn/project7-rankings)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanif-rn&description_lines_count=2&theme=ambient_gradient&repo=hanif-rn)](https://github.com/hanif-rn/hanif-rn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanif-rn&description_lines_count=2&show_owner=true&theme=ambient_gradient&repo=project7-rankings)](https://github.com/hanif-rn/project7-rankings)
 ### 🛠️ Fun Stats!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanif-rn&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanif-rn&layout=compact&theme=ambient_gradient)
 
 ---
 
