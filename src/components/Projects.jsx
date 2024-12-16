@@ -3,7 +3,6 @@ import MasRaya from "../assets/mapsss.png";
 import mips from "../assets/breakoutss.png";
 import mazes from "../assets/mazess.png";
 import pkh from "../assets/eval.png";
-import mipscode from "../assets/breakout.asm";
 
 const Projects = () => {
   return (
@@ -76,9 +75,9 @@ const Projects = () => {
                 </li>
               </ul>
               <div className="pt-8 text-center">
-                <a href={mipscode}>
+                <a href="https://github.com/hanif-rn/mips-breakout">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white font-bold text-lg">
-                    Code
+                    Repo
                   </button>
                 </a>
               </div>
